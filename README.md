@@ -22,7 +22,6 @@ datetime
 hashlib
 ``` 
 ---
-
 ## Installation Guide
 ```
   -pip install jupyterlab
@@ -32,19 +31,15 @@ hashlib
   -pip install streamlit
   ```
   ---
-
 ## Usage
 
 Clone the repository and run the code on your VS vode or Jupyter Lab.
 ---
-
 ## Contributors
 ```
 Bria El Filali
 ```
 ---
-
 ## GitHub Repo
-https://github.com/briabr/sql-fintech-etf
-
+https://github.com/briabrblockchain-based-ledger-system-pychain
 
